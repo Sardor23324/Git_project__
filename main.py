@@ -1,0 +1,9 @@
+"""
+git config --global user.name Sardor23324
+git config --global user.email deo17ssssssssss@gmail.com
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC63WWPAxpLD85ZvFab3FD5sA6NOTcGehUPG/gEu33M1EHJayYzKN/17f3dAaDEBLl6RGTVpqM77jSmiWhlmYJqswMyrMd5yLihnDbT2vV0EMlStGIdcXYz24I5bFVi4DuwGV2gLvNwtftkp4JJiSIF2GgqpWxWvYX5IYi9SOOdMrZp+CHVusR5zSOYHgoEhYNd+POA/S5lkQThViAtguU8+pHj32bm0qQyXeMpnrpdfr06FPk1xKaY2+C7avQkRgQ6a5JS+ItrUzy3x1lRUpZ7vy1ZiseBETQZNky+tqEAgdOJ9mMiBQ8fW/dytnXo8egcffwWaNi4tlkzRPpZBQ1STBzQ+vSCvdaJk6RLbmbzUtXLNBKBHRYsJFW3Is2rufosxVDW32KrM5/n1xthA9wGCe98yp/En9hWK38JkByAc4rbUXANBKO2iz/Hqpax/A2yaXbbt8aIZBNS5wX34BrxLeaoHepk9DdDmsE47+MwPx35gnK7Q7ao50PJf2Yf/0k= user@MacBook-Pro-User-3.local
+
+"""
+
+
